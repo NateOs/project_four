@@ -4,11 +4,11 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build --tag=ml .
+sudo docker build --tag=ml .
 
 # Step 2: 
 # List docker images
-docker image ls
+sudo docker images
 
 # Step 3: 
 # Run flask app
