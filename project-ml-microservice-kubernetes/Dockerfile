@@ -14,5 +14,5 @@ RUN pip install -r requirements.txt
 EXPOSE 80
 
 ## Step 5:
-CMD ["python", "web.py"]
+CMD ["python", "app.py"]
 
