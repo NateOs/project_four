@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/nateos/project_four.svg?style=svg)](https://app.circleci.com/pipelines/github/NateOs/project_four)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/NateOs/project_four)
 
 ## Project Overview
 
